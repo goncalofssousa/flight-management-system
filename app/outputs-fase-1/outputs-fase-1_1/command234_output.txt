@@ -1,0 +1,30 @@
+JetVenture Airlines=5389=53.060
+Sunrise Networks=7855=52.962
+Cloud Nine=5573=52.913
+Keen Skyways=6560=52.797
+Global Way=5802=52.792
+Liberty Plane=5716=52.772
+BlueDawn Aviation=4713=52.770
+Rivet Transport=5820=52.768
+SkyGate Airlines=5620=52.752
+Moonlight Airways=7679=52.674
+Rocket Shuttle=8151=52.640
+Omega Wings=6462=52.604
+Polar Lines=6927=52.589
+Zebra Regional Airways=6728=52.563
+Horizon Blue=7687=52.539
+Bravo Voyages=7083=52.504
+Vertex Airlines=5419=52.495
+Lighthouse Air=8826=52.491
+AirRover=8283=52.454
+Rainbow Breeze=6116=52.448
+PanAir=7751=52.445
+Delta Pacific=3928=52.390
+AeroFlyer=6680=52.386
+Jet3 Airlines=5278=52.364
+Xylon Express=5543=52.360
+Quasar Travel=5504=52.344
+Yukon Airservices=9921=52.246
+Everest Air=9289=52.149
+Union Connect=8595=52.054
+Titan Intercontinental=5016=51.708

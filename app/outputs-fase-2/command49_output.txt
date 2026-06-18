@@ -1,0 +1,1 @@
+RFD=Chicago Rockford International Airport=Chicago/Rockford=US=medium_airport=661=698

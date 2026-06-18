@@ -1,0 +1,10 @@
+Everest Air=34398=52.754
+Sunrise Networks=31111=52.664
+Bravo Voyages=29582=52.654
+Lighthouse Air=34420=52.642
+Zebra Regional Airways=36004=52.611
+Quasar Travel=33539=52.582
+Xylon Express=32767=52.577
+Polar Lines=34950=52.575
+Omega Wings=33596=52.539
+Delta Pacific=39971=52.526

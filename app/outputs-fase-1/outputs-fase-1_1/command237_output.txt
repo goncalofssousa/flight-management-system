@@ -1,0 +1,13 @@
+JetVenture Airlines=5389=53.060
+Sunrise Networks=7855=52.962
+Cloud Nine=5573=52.913
+Keen Skyways=6560=52.797
+Global Way=5802=52.792
+Liberty Plane=5716=52.772
+BlueDawn Aviation=4713=52.770
+Rivet Transport=5820=52.768
+SkyGate Airlines=5620=52.752
+Moonlight Airways=7679=52.674
+Rocket Shuttle=8151=52.640
+Omega Wings=6462=52.604
+Polar Lines=6927=52.589
